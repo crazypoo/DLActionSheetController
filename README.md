@@ -1,6 +1,10 @@
 # DLActionSheetController
 DLActionSheetController is an action sheet controller easier for use.
 
+[Aboud DLActionSheetController](http://www.jianshu.com/p/c182a73983b1)
+
+![](http://upload-images.jianshu.io/upload_images/144590-c025de7c1e55179b.png?imageView2/2/w/1240/q/100)
+
 使用须知:
 
 1. 必须设置一下当前的模态样式
