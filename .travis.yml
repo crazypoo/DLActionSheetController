@@ -1,2 +1,4 @@
 language: objective-c
-~                        
+rvm: 2.2.1
+install:
+    - bundle install
