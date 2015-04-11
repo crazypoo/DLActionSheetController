@@ -1,4 +1,6 @@
 # DLActionSheetController
+
+![](https://travis-ci.org/WildDylan/DLActionSheetController.svg)
 DLActionSheetController is an action sheet controller easier for use.
 
 [Aboud DLActionSheetController](http://www.jianshu.com/p/c182a73983b1)
