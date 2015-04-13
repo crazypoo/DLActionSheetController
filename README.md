@@ -2,6 +2,8 @@
 
 ![](https://travis-ci.org/WildDylan/DLActionSheetController.svg)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WildDylan/DLActionSheetController?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 DLActionSheetController is an action sheet controller easier for use.
 
 [Aboud DLActionSheetController](http://www.jianshu.com/p/c182a73983b1)
