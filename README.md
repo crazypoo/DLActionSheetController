@@ -1,5 +1,7 @@
 # DLActionSheetController
 
+[![Join the chat at https://gitter.im/WildDylan/DLActionSheetController](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WildDylan/DLActionSheetController?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](https://travis-ci.org/WildDylan/DLActionSheetController.svg)
 
 DLActionSheetController is an action sheet controller easier for use.
