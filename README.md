@@ -16,7 +16,7 @@ DLActionSheetController is an action sheet controller easier for use.
 
 1. 必须设置一下当前的模态样式
 
-```
+```objective-c
 - (IBAction)DLAction:(id)sender {
 
 DLActionSheetController * actionVC = [[DLActionSheetController alloc] initWithName:@[@"投诉", @"撤销问题", @"取消问题"] enable:@[@(YES), @(NO), @(YES)] color:@[[UIColor redColor], [UIColor lightGrayColor], [UIColor blackColor]]];
@@ -38,7 +38,7 @@ actionVC.delegate = self;
 
 - Delegate method
 
-```
+```objective-c
 - (void)DLAction:(DLActionSheetController *)controller click:(NSInteger)index {
 
 NSLog(@"%ld", index);
